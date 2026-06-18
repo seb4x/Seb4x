@@ -1,4 +1,4 @@
-## Estudiante de Ingeniería Informática. Actualmente aprendiendo Python y desarrollo de software. Interesado en automatización, sistemas de inventario y desarrollo de aplicaciones.
+## Estudiante de Ingeniería Informática. Actualmente aprendiendo Python y desarrollo de software. Interesado en automatización, Redes y desarrollo de aplicaciones.
 
 <!--
 **seb4x/Seb4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
